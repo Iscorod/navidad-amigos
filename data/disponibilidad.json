@@ -43,7 +43,9 @@
     {
       "id": "a5c34a6a-03f3-40d9-8a42-fd752f5d1ba6",
       "name": "Crissss",
-      "days": {}
+      "days": {
+        "12": "busy"
+      }
     }
   ]
 }
