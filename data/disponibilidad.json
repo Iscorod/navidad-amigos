@@ -24,7 +24,9 @@
     {
       "id": "e9dc10ff-2208-4445-9889-b4959ae9eb28",
       "name": "María y Carlos",
-      "days": {}
+      "days": {
+        "6": "free"
+      }
     }
   ]
 }
