@@ -25,6 +25,7 @@
       "id": "e9dc10ff-2208-4445-9889-b4959ae9eb28",
       "name": "María y Carlos",
       "days": {
+        "4": "busy",
         "6": "free",
         "7": "free",
         "8": "free",
